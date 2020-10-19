@@ -1,16 +1,22 @@
 # Innføring i webutvikling
 
+Hopp til [HTML](#-html) hvis du vil begynne med en gang.
+
 Denne innføringen vil gi deg raskt innblikk i HTML, CSS og JavaScript, som er de mest brukte språkene for å utvikle nettsider.
 
-Vi kommer ikke til å gå i dybden her, men du kan få en smakebit på om nettutvikling er noe for deg. I notatene ligger det en link til en spilleliste jeg har laget for dere som synes nettutvikling virker interessant, som vil gjøre dere rustet til å lage hva dere vil.
+Kort oppsumert om språkene:
 
-Kort oppsumert er HTML det som lar oss strukturere en nettside - for eksempel fortelle nettleseren at vi vil ha en knapp, CSS lar oss utforme strukturen, sånn at knappen kan se fancy ut, og JavaScript gjør det mulig å lage funksjonalitet som ikke er bygd inn i HTML allerede, som at man eksempelvis får knappen til å endre variabler som påvirker noe annet på nettsiden.
+- [HTML](https://www.w3schools.com/html/html_intro.asp) er det som lar oss strukturere en nettside - for eksempel fortelle nettleseren at vi vil ha en knapp
+- [CSS](https://www.w3schools.com/css/css_intro.asp) lar oss utforme strukturen, så knappen kan se fancy ut
+- [JavaScript](https://www.w3schools.com/js/js_intro.asp) gjør det mulig å lage funksjonalitet som ikke er bygd inn i HTML allerede, som at man eksempelvis får knappen til å vise dagens dato og nåværende tid.
 
-Ikke bekymre deg dersom ting går litt fort fram og du ikke skjønner alt, siden webutvikling krever mye trening for å få det inn i fingrene, og spillelisten vil fylle inn mye som utelates her.
+I praksis er det sjeldent at man bruker HTML, CSS og JavaScript direkte på den måten vi kommer til å gjøre nå, og man bruker som regel et rammeverk som fikser HTML, CSS og JavaScript for deg. Derfor vil slutten av innføringen vise hvordan man ville implementert det vi har laget i rammeverket [React](https://reactjs.org/), som er det vi oftest bruker på [Eik Lab](https://www.facebook.com/eiklab/).
 
-I praksis er det sjeldent at man bruker HTML, CSS og JavaScript direkte på den måten vi kommer til å gjøre nå, og man bruker som regel et rammeverk som fikser HTML, CSS og JavaScript for deg. Derfor vil slutten av videoen vise hvordan man ville implementert det vi har laget i rammeverket React, som er det vi oftest bruker på Eik.
+Vi kommer ikke til å gå i dybden her, men du kan få en smakebit på om nettutvikling er noe for deg. Jeg har lagt ved en [spilleliste](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0) for dere som synes nettutvikling virker interessant, som vil gi dere dypere forståelse og gjøre dere rustet til å lage hva dere vil.
 
-[Send meg en melding](https://www.facebook.com/kristian.kramas) om det er noe du lurer på underveis i innføringen eller mens du jobber deg gjennom spillelisten. Jeg synes det er veldig hyggelig å hjelpe dere og ingen spørsmål er dumme når det kommer til webutvikling.
+Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden webutvikling krever mye trening for god forståelse. [Spillelisten](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0) vil fylle inn mye som utelates her.
+
+[Send meg en melding](https://www.facebook.com/kristian.kramas) om det er noe du lurer på underveis i innføringen eller mens du jobber deg gjennom spillelisten. Jeg synes det er veldig hyggelig å hjelpe dere og ingen spørsmål er dumme når det kommer til webutvikling. Jeg kommer til å oppdatere kurset underveis basert på feedbacken deres.
 
 ## Innhold <!-- omit in toc -->
 

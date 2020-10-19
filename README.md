@@ -1,6 +1,11 @@
 # Innføring i webutvikling
 
-Hopp til [HTML](#-html) hvis du vil begynne med en gang.
+Hvis du vil begynne med en gang, hopp til [HTML](#-html).
+
+Hvis du allerede har en grunnleggende forståelse for webutvikling, klikk deg inn på [Zero to Fullstack Hero](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0).
+
+Hvis du er helt fersk og vil ha en innføring i webutvikling, les videre.
+___
 
 Denne innføringen vil gi deg raskt innblikk i HTML, CSS og JavaScript, som er de mest brukte språkene for å utvikle nettsider.
 

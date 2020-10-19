@@ -10,7 +10,7 @@ Ikke bekymre deg dersom ting går litt fort fram og du ikke skjønner alt, siden
 
 I praksis er det sjeldent at man bruker HTML, CSS og JavaScript direkte på den måten vi kommer til å gjøre nå, og man bruker som regel et rammeverk som fikser HTML, CSS og JavaScript for deg. Derfor vil slutten av videoen vise hvordan man ville implementert det vi har laget i rammeverket React, som er det vi oftest bruker på Eik.
 
-[Send meg en melding](https://www.facebook.com/kristian.kramas) hvis det er noe du lurer på underveis i innføringen eller mens du jobber deg gjennom spillelisten. Jeg synes det er veldig hyggelig å hjelpe dere og ingen spørsmål er dumme når det kommer til webutvikling.
+[Send meg en melding](https://www.facebook.com/kristian.kramas) om det er noe du lurer på underveis i innføringen eller mens du jobber deg gjennom spillelisten. Jeg synes det er veldig hyggelig å hjelpe dere og ingen spørsmål er dumme når det kommer til webutvikling.
 
 ## Innhold <!-- omit in toc -->
 

@@ -31,7 +31,7 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
   - [⚙ JavaScript](#-javascript)
   - [🎉 Gratulerer!](#-gratulerer)
   - [👨‍🔬 React (Økt vanskelighetsgrad)](#-react-økt-vanskelighetsgrad)
-  - [✈ Veien videre](#-veien-videre)
+  - [✈ Alternativer for veien videre](#-alternativer-for-veien-videre)
   - [🖋 Notater](#-notater)
   - [💌 Kontakt](#-kontakt)
 
@@ -374,7 +374,7 @@ Her fokuserer jeg på å implementere det samme i React og vil ikke forklare hvo
 6. Trykk på knappen.
 7. 👏👏👏
 
-## ✈ Veien videre
+## ✈ Alternativer for veien videre
 
 1. Se [Zero to Fullstack Hero](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0) og lære deg fullstack-utvikling
 2. [Sende meg en melding](https://www.facebook.com/kristian.kramas), dersom du har en idé om noe du vil lage, så hjelper jeg deg i gang

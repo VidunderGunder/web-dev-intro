@@ -33,6 +33,7 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
   - [👨‍🔬 React (Økt vanskelighetsgrad)](#-react-økt-vanskelighetsgrad)
   - [✈ Veien videre](#-veien-videre)
   - [🖋 Notater](#-notater)
+  - [💌 Kontakt](#-kontakt)
 
 ## 📄 HTML
 
@@ -385,4 +386,11 @@ Her fokuserer jeg på å implementere det samme i React og vil ikke forklare hvo
 - [Ferdig prosjekt (React)](https://codesandbox.io/s/knapp-med-react-g0w3p?file=/src/App.jsx)
 - [Spilleliste: Zero to Fullstack Hero](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0)
 - [CSS-eksempler for knapper](https://www.w3schools.com/css/css3_buttons.asp)
+  
+## 💌 Kontakt
 
+| Kanal    | Info                                     |
+|----------|------------------------------------------|
+| Facebook | https://www.facebook.com/kristian.kramas |
+| Mobil    | 95157097                                 |
+| E-post   | kristiankramas@outlook.com               |

@@ -54,7 +54,7 @@ I praksis er det sjeldent at man bruker HTML, CSS og JavaScript direkte på den 
 
     ...men det meste kan ignoreres, siden nesten alt er informasjon til nettleseren, som vi ikke trenger å tenke på nå.
 
-    Det vi vil fokusere på er det som er inne i bodyknaggen:
+    Det vi vil fokusere på er det som er inne i body-knaggen:
 
      ```html
     <body>
@@ -65,7 +65,6 @@ I praksis er det sjeldent at man bruker HTML, CSS og JavaScript direkte på den 
     ```
 
     Du kan tenke på en tag som en boks man putter ting i. `<body></body>` er boksen du ser på høyre side, og det vi setter mellom åpningsknaggen `<body>` og lukkeknaggen `</body>` vil vises på nettsiden.
-
 
 5. Erstatt overskriften:
 
@@ -89,7 +88,7 @@ For å utforme knappen bruker vi CSS.
 
 1. Lag en ny fil ved å trykke på `New File`-ikonet eller `File -> New File` i verktøylinja
 2. Gi den navnet `styles.css`
-3. Legg til `<link rel="stylesheet" href="styles.css">` i headknaggen i `index.html` for å importere stilene i HTML-filen:
+3. Legg til `<link rel="stylesheet" href="styles.css">` i head-knaggen i `index.html` for å importere stilene i HTML-filen:
 
      ```html
     <!DOCTYPE html>
@@ -278,7 +277,7 @@ Videre kan du velge om du har lyst til å:
 
 ## 👨‍🔬 React (Økt vanskelighetsgrad)
 
-Her fokuserer jeg på å implementere det samme i React og vil ikke forklare hvordan alt fungerer, da hensikten er at du får en liten smakebit på React før du fortsetter.
+Her fokuserer jeg på å implementere det samme i React og vil ikke forklare hvordan alt fungerer, siden hensikten er at du bare får en liten smakebit på React før du fortsetter. Husk å lagre for å se endringer.
 
 1. Gå til denne [React-malen](https://codesandbox.io/s/react-bootstrap-5rui9?file=/src/App.jsx)
 2. Pass på at du er i filen `App.jsx`:

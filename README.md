@@ -76,7 +76,7 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
     </body>
     ```
 
-    Du kan tenke på en tag som en boks man putter ting i. `<body></body>` er boksen du ser på høyre side, og det vi setter mellom åpningsknaggen `<body>` og lukkeknaggen `</body>` vil vises på nettsiden.
+    Du kan tenke på en knagg som en boks man putter ting i. `<body></body>` er boksen du ser på høyre side, og det vi setter mellom åpningsknaggen `<body>` og lukkeknaggen `</body>` vil vises på nettsiden.
 
 5. Erstatt overskriften:
 

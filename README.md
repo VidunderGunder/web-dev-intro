@@ -151,7 +151,7 @@ For å utforme knappen bruker vi CSS.
     .btn {
         border: none; /* Fjerner sort ramme rundt standardknapp */
         color: white; /* Endrer farge på tekst til hvit */
-        padding: 15px 32px; /* Legger til mer pusterom runt teksten i knappen */
+        padding: 15px 32px; /* Legger til mer pusterom rundt teksten i knappen */
         text-align: center;  /* Plasserer teksten i midten av knappen */
         text-decoration: none; /* Fjerner at standardstil på tekst */
         font-size: 16px; /* Endrer tekststørrelse */
@@ -170,7 +170,7 @@ For å utforme knappen bruker vi CSS.
     .btn {
         border: none; /* Fjerner sort ramme rundt standardknapp */
         color: white; /* Endrer farge på tekst til hvit */
-        padding: 15px 32px; /* Legger til mer pusterom runt teksten i knappen */
+        padding: 15px 32px; /* Legger til mer pusterom rundt teksten i knappen */
         text-align: center;  /* Plasserer teksten i midten av knappen */
         text-decoration: none; /* Fjerner at standardstil på tekst */
         font-size: 16px; /* Endrer tekststørrelse */

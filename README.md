@@ -43,7 +43,7 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
 
     Da får du opp en ferdig HTML-mal. Du kan programmere på venstre og se hvordan nettsiden blir seende ut på høyre.
 
-    Den eneste filen vi trenger å bry oss om i dette tilfelle er `index.html`, som er hele nettsiden vår for øyeblikket. De andre filene kan du ignorere, siden de bare har med utviklermiljøet å gjøre (som er programmet du skriver i).
+    Den eneste filen vi trenger å bry oss om i dette tilfellet er `index.html`, som er hele nettsiden vår for øyeblikket. De andre filene kan du ignorere, siden de bare har med utviklermiljøet å gjøre (som er programmet du skriver i).
 
     I `index.html` er det mye rare greier...
 

@@ -21,7 +21,7 @@ Vi kommer ikke til å gå i dybden her, men du kan få en smakebit på om nettut
 
 Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden webutvikling krever mye trening for god forståelse. [Spillelisten](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0) vil fylle inn mye som utelates her.
 
-[Send meg en melding](https://www.facebook.com/kristian.kramas) om det er noe du lurer på underveis i innføringen eller mens du jobber deg gjennom spillelisten. Jeg synes det er veldig hyggelig å hjelpe dere og ingen spørsmål er dumme når det kommer til webutvikling. Jeg kommer til å oppdatere kurset underveis basert på feedbacken deres.
+[Send meg en melding](https://www.facebook.com/kristian.kramas) om det er noe du lurer på underveis i innføringen eller mens du jobber deg gjennom [spillelisten](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0). Jeg synes det er veldig hyggelig å hjelpe dere og ingen spørsmål er dumme når det kommer til webutvikling. Jeg kommer til å oppdatere kurset underveis basert på feedbacken deres.
 
 ## Innhold <!-- omit in toc -->
 
@@ -38,10 +38,19 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
 ## 📄 HTML
 
 1. Gå til [CodeSandbox](https://codesandbox.io/)
+
+
 2. Trykk på `Create Sandbox`
+   
+    ![create](images/create.png "Create")
+
 3. Velg malen som heter `static`
 
+    ![static](images/static.png "Static")
+
     Da får du opp en ferdig HTML-mal. Du kan programmere på venstre og se hvordan nettsiden blir seende ut på høyre.
+
+    ![new project](images/new-project.png "New Project")
 
     Den eneste filen vi trenger å bry oss om i dette tilfelle er `index.html`, som er hele nettsiden vår for øyeblikket. De andre filene kan du ignorere, siden de bare har med utviklermiljøet å gjøre (som er programmet du skriver i).
 
@@ -78,7 +87,7 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
 
     Du kan tenke på en tag som en boks man putter ting i. `<body></body>` er boksen du ser på høyre side, og det vi setter mellom åpningsknaggen `<body>` og lukkeknaggen `</body>` vil vises på nettsiden.
 
-5. Erstatt overskriften:
+4. Erstatt overskriften:
 
     ```html
     <h1>
@@ -92,13 +101,17 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
     <button>Knapp</button>
     ```
 
-    Og vi har laget en enkel HTML-side med én knapp.
+    Og vi har laget en enkel HTML-side med én ✨ <button>Knapp</button> ✨:
 
 ## 🎨 CSS
 
 For å utforme knappen bruker vi CSS. 
 
 1. Lag en ny fil ved å trykke på `New File`-ikonet eller `File -> New File` i verktøylinja
+
+    ![new file](images/new-file.png "New File")
+
+
 2. Gi den navnet `styles.css`
 3. Legg til `<link rel="stylesheet" href="styles.css">` i head-knaggen i `index.html` for å importere stilene i HTML-filen:
 
@@ -151,7 +164,7 @@ For å utforme knappen bruker vi CSS.
     .btn {
         border: none; /* Fjerner sort ramme rundt standardknapp */
         color: white; /* Endrer farge på tekst til hvit */
-        padding: 15px 32px; /* Legger til mer pusterom runt teksten i knappen */
+        padding: 15px 32px; /* Legger til mer pusterom rundt teksten i knappen */
         text-align: center;  /* Plasserer teksten i midten av knappen */
         text-decoration: none; /* Fjerner at standardstil på tekst */
         font-size: 16px; /* Endrer tekststørrelse */
@@ -163,6 +176,8 @@ For å utforme knappen bruker vi CSS.
     Dette er utforming inspirert av w3schools eksempler - linken er i notatene. Prøv deg gjerne fram ved å endre på verdiene, og se hva som skjer.
 
     Husk å lagre (<kbd>CTRL</kbd> + <kbd>S</kbd> eller <kbd>⌘</kbd> + <kbd>S</kbd>) for å se endringene du gjør.
+
+    ![knapp](images/knapp.png "Knapp")
 
 7. Vi kan legge til enkel scripting for stiler uten JavaScript for tilfeller som når musepekeren er over et objekt. Jeg lagde dette basert på w3schools eksempler for å gjøre knappen litt mer livlig:
 
@@ -183,6 +198,10 @@ For å utforme knappen bruker vi CSS.
         background-color: #046788; /* Gjør farge mørkere */
     }
     ```
+
+_Du lurer kanskje på hvorfor vi ikke lager alle stilene fra bunnen av på egenhånd? Det er fordi man som oftest henter løsninger fra andre for å spare tid og for å være sikre på at løsningen er utprøvd og oppfører seg som forventet på alle plattformer. Ulike kombinasjoner av nettlesere og operativsystemer har litt ulike måter å tyde CSS, og det er større sjanse for at ting fungerer universalt med en ferdig løsning._
+
+_For dere som vil lage ting fra bunnen av, kommer det mer om det i [spillelisten](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0)._
 
 ## ⚙ JavaScript
 
@@ -276,6 +295,9 @@ For å gi den funksjonalitet bruker vi JavaScript.
 
 7. Trykk på knappen.
 
+    ![dato](images/dato.png "Dato")
+
+
 ## 🎉 Gratulerer!
 
 Nå har du laget en knapp med HTML, CSS og JavaScript.
@@ -331,7 +353,7 @@ Her fokuserer jeg på å implementere det samme i React og vil ikke forklare hvo
     - Lag en *state* for dato med `const [date, setDate] = useState();`
     - Legg til `<div>{date}</div>` under knappen
 
-    Du vil lære mer om hva en *state* er og hvorfor vi bruker det i spillelisten.
+    Du vil lære mer om hva en *state* er og hvorfor vi bruker det i [spillelisten](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0).
 
     ```jsx
     import React, { useState } from "react";
@@ -373,6 +395,8 @@ Her fokuserer jeg på å implementere det samme i React og vil ikke forklare hvo
 
 6. Trykk på knappen.
 7. 👏👏👏
+
+    ![react](images/react.png "React")
 
 ## ✈ Alternativer for veien videre
 

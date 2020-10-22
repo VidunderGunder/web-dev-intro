@@ -52,7 +52,7 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
 
     ![new project](images/new-project.png "New Project")
 
-    Den eneste filen vi trenger å bry oss om i dette tilfelle er `index.html`, som er hele nettsiden vår for øyeblikket. De andre filene kan du ignorere, siden de bare har med utviklermiljøet å gjøre (som er programmet du skriver i).
+    Den eneste filen vi trenger å bry oss om i dette tilfellet er `index.html`, som er hele nettsiden vår for øyeblikket. De andre filene kan du ignorere, siden de bare har med utviklermiljøet å gjøre (som er programmet du skriver i).
 
     I `index.html` er det mye rare greier...
 
@@ -85,7 +85,7 @@ Ikke vær bekymret hvis ting går litt fort fram og du ikke skjønner alt, siden
     </body>
     ```
 
-    Du kan tenke på en tag som en boks man putter ting i. `<body></body>` er boksen du ser på høyre side, og det vi setter mellom åpningsknaggen `<body>` og lukkeknaggen `</body>` vil vises på nettsiden.
+    Du kan tenke på en knagg som en boks man putter ting i. `<body></body>` er boksen du ser på høyre side, og det vi setter mellom åpningsknaggen `<body>` og lukkeknaggen `</body>` vil vises på nettsiden.
 
 4. Erstatt overskriften:
 
@@ -185,7 +185,7 @@ For å utforme knappen bruker vi CSS.
     .btn {
         border: none; /* Fjerner sort ramme rundt standardknapp */
         color: white; /* Endrer farge på tekst til hvit */
-        padding: 15px 32px; /* Legger til mer pusterom runt teksten i knappen */
+        padding: 15px 32px; /* Legger til mer pusterom rundt teksten i knappen */
         text-align: center;  /* Plasserer teksten i midten av knappen */
         text-decoration: none; /* Fjerner at standardstil på tekst */
         font-size: 16px; /* Endrer tekststørrelse */

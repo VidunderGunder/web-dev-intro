@@ -1,5 +1,7 @@
 # Innføring i webutvikling
 
+![hero](images/hero.png "Hero")
+
 Hvis du vil begynne med en gang, hopp til [HTML](#-html).
 
 Hvis du allerede har en grunnleggende forståelse for webutvikling, klikk deg inn på [Zero to Fullstack Hero](https://www.youtube.com/watch?v=Mj3QejzYZ70&list=PLzWjrc7MKKxyffsM7YTBnogYpBh_QUIO0).
